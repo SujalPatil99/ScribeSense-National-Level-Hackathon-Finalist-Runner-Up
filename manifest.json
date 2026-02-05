@@ -1,0 +1,10 @@
+{
+  "name": "Handwriting OCR System",
+  "short_name": "OCR",
+  "description": "Handwriting OCR and Document Analysis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "icons": []
+}
