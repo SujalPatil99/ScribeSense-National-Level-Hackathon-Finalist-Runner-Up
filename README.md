@@ -1,4 +1,4 @@
-# 🏆 ScribeSense — National Level Hackathon Finalist & Runner-Up
+ScribeSense — National Level Hackathon Finalist & Runner-Up
 
 ScribeSense is an AI-powered platform developed during a **National Level Hackathon**, where our team proudly secured the position of **Finalist and Runner-Up** among top competing teams.
 
@@ -6,10 +6,10 @@ The project was built with the vision of transforming handwritten documents into
 
 Our solution not only digitizes handwritten text but enhances it with:
 
-* 📄 Accurate text extraction
-* 🧠 AI-generated summaries
-* 🔑 Key point highlighting
-* 🔊 Audio narration for accessibility
+* Accurate text extraction
+* AI-generated summaries
+* Key point highlighting
+* Audio narration for accessibility
 
 This innovation aims to preserve handwritten knowledge while making it searchable, shareable, and inclusive for modern digital use.
 
@@ -70,11 +70,11 @@ Watch our proposed solution demo here: [ScribeSense Demo](https://youtube.com/sh
 
 ---
 
-## 🏅 Hackathon Recognition
+## Hackathon Recognition
 
-* 🥈 Runner-Up — National Level Hackathon
-* 🎯 Finalist among top innovation teams
-* 💡 Recognized for AI innovation & social impact
+* Runner-Up — National Level Hackathon
+* Finalist among top innovation teams
+* Recognized for AI innovation & social impact
 
 This project was appreciated for its real-world applicability in education, research digitization, and accessibility enablement.
 
